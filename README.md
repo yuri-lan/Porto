@@ -1,4 +1,4 @@
-# Portofolio Hayulita
+# Portofolio
 
 Website portofolio pribadi sederhana yang dibuat untuk memenuhi tugas praktikum Pemrograman Web. Website ini menampilkan profil singkat, keahlian yang sedang dipelajari, proyek, serta informasi kontak.
 
